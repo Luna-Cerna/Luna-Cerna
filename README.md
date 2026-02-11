@@ -1,4 +1,4 @@
-[pink]## Hi there ૮ ˶ᵔ ᵕ ᵔ˶ ა
+(pink)## Hi there ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 <!--
 **Luna-Cerna/Luna-Cerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
